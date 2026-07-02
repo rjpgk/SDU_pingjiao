@@ -1,0 +1,14 @@
+.idea
+.vscode
+*.pyc
+app.py
+npm-debug.log
+__pycache__
+node_modules
+build/
+!docs/build/
+dist/
+sdu_bkjws.egg-info/
+package-lock.json
+.eggs/
+keys.json
